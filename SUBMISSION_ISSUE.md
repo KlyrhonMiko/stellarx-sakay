@@ -27,7 +27,7 @@ Informal transit in the Philippines (jeepneys, tricycles) is entirely cash-based
 - **Stellar Expert:** Every confirmed transaction deep-links to the block explorer for transparency.
 
 ## GitHub Repository
-[Link to your public repo — final code must be on `main`]
+https://github.com/KlyrhonMiko/stellarx-sakay
 
 ## Network & Deployment
 - Network: **testnet**
@@ -35,7 +35,7 @@ Informal transit in the Philippines (jeepneys, tricycles) is entirely cash-based
 - Contract IDs / asset issuers: set after running `.\scripts\deploy.ps1` — written to `web/.env.local`. Asset: XLM native (no custom issuer).
 
 ## Team
-- *(Your Full Name)* — @*(your-github-username)*
+- Klyrhon — @KlyrhonMiko
 
 ## Novelty Note (optional, for bonus points)
 SakayPass targets the *last-mile informal transit* gap — not remittance or DeFi. While digital transit cards exist (Beep), none run on a permissionless blockchain, meaning drivers and students can participate with just a smartphone and Freighter — no account approval, no bank onboarding. The QR-scan-to-Stellar-payment flow is novel in the Philippine informal transit context.

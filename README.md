@@ -56,7 +56,7 @@ Why Stellar and not something else? Stellar's 3–5 second finality and near-zer
 ### 1. Frontend
 
 ```bash
-git clone https://github.com/<your-username>/stellarx-sakay
+git clone https://github.com/KlyrhonMiko/stellarx-sakay
 cd stellarx-sakay/web
 npm install
 npm run dev
@@ -102,7 +102,7 @@ Restart `npm run dev` — the contract panel goes live.
 
 ## Team
 
-- *(Fill in your name)* — @*(your-github-username)*
+- Klyrhon — @KlyrhonMiko
 
 ## License
 
